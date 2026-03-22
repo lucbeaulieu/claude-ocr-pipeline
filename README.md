@@ -2,7 +2,7 @@
 
 > **Connecting Claude AI to Apple Notes and Apple Reminders via macOS LaunchAgents**
 
-A fully automated pipeline that takes photos or PDF files of your handwritten meeting notes, transcribes them with AI (Claude), exports structured Markdown files directly into Apple Notes with full formatting, and sends extracted action items straight into Apple Reminders — all triggered automatically the moment Claude writes a file to a watched folder.
+A fully automated pipeline that takes photos or PDF files of your handwritten meeting notes, either on paper or an e-ink tablet, transcribes them with AI (Claude), exports structured Markdown files directly into Apple Notes with full formatting, and sends extracted action items straight into Apple Reminders — all triggered automatically the moment Claude writes a file to a watched folder.
 
 ---
 
